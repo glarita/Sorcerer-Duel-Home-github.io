@@ -24,23 +24,23 @@
 
 ### [Marcos Buccat](https://buccatm.github.io/)
 - Picture of your Team member
-- State your standing and wheter you are ICS or ACM
+- State your standing and whether you are ICS or ACM
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
  
 ### Glen Larita
 - URL of your home page
 - Picture of your Team member
-- State your standing and wheter you are ICS or ACM
+- State your standing and whether you are ICS or ACM
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
 
 ### Jestiny Lubas
-- URL of your home page
+- URL of your home page, linked in?
 - Picture of your Team member
-- State your standing and wheter you are ICS or ACM
+- State your standing and whether you are ICS or ACM
 - Include your individual Brainstoorm Documentation
-- Put Stuff that I did
+- Put Stuff that I did here
 
 # Trello Board
 - [Team Trello Board](https://trello.com/b/p0tyVYj3/sorcerer-duel)
