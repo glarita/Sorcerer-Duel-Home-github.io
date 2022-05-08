@@ -23,8 +23,8 @@
 ## Team Members
 
 ### [Marcos Buccat](https://buccatm.github.io/)
-- Picture of your Team member
-- State your standing and whether you are ICS or ACM
+ ![alt text](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/marcosb/gitHub-profile-picture.jpg)
+- ICS Student, Senior
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
  
