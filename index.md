@@ -23,7 +23,7 @@
 ## Team Members
 
 ### [Marcos Buccat](https://buccatm.github.io/)
- ![alt text](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/marcosb/gitHub-profile-picture.jpg)
+ ![alt text](images/marcosb/gitHub-profile-picture.jpg)
 - ICS Student, Senior
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
