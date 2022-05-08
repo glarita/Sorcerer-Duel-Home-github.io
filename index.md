@@ -1,5 +1,3 @@
-# Sorcerer Duel
-
 # Table of Contents
 - link me to header 1
 - link me to header 2
