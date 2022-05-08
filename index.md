@@ -1,3 +1,4 @@
+#
 # Table of Contents
 - link me to header 1
 - link me to header 2
@@ -5,12 +6,16 @@
 - link me to header 4
 
 # Overview
-- introduce the game, give a short elavator summary about the game
+- brief synopsis of the game, give a short elavator summary about the game
+- brief synopsis of the gameplay
+
+## Team Ideas
+- Screen shot of the brains storm idea?
 
 ## Prototype
 - put image with link to a channel that demonstrate the game
-### Team Ideas
-- Screen shot of individual brains storm idea?
+- include images??
+
 
 ## Final Product
 - put image with link to a channel that demonstrate the game
@@ -18,17 +23,25 @@
 
 ## Team Members
 
-### Marcos Buccat
- Put Stuff that I did 
+### [Marcos Buccat](https://buccatm.github.io/)
+- Picture of your Team member
+- State your standing and wheter you are ICS or ACM
+- Include your individual Brainstoorm Documentation
+- Put Stuff that I did
  
 ### Glen Larita
-Put Stuff that I did
+- URL of your home page
+- Picture of your Team member
+- State your standing and wheter you are ICS or ACM
+- Include your individual Brainstoorm Documentation
+- Put Stuff that I did
 
 ### Jestiny Lubas
-Put Stuff that I did
+- URL of your home page
+- Picture of your Team member
+- State your standing and wheter you are ICS or ACM
+- Include your individual Brainstoorm Documentation
+- Put Stuff that I did
 
-
-# Meet the Creators
-- [Marcos Buccat](https://buccatm.github.io/)
-- Glen Larita
-- Jestiny Lubas
+# Trello Board
+- [Team Trello Board](https://trello.com/b/p0tyVYj3/sorcerer-duel)
