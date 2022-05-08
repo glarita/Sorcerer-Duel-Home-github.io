@@ -22,20 +22,20 @@
 
 ## Team Members
 
-### [Marcos Buccat](https://buccatm.github.io/)
+### 1. [Marcos Buccat](https://buccatm.github.io/)
  ![alt text](images/marcosb/gitHub-profile-picture.jpg)
 - ICS Student, Senior
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
  
-### Glen Larita
+### 2. Glen Larita
 - URL of your home page
 - Picture of your Team member
 - State your standing and whether you are ICS or ACM
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
 
-### Jestiny Lubas
+### 3. Jestiny Lubas
 - URL of your home page, linked in?
 - Picture of your Team member
 - State your standing and whether you are ICS or ACM
