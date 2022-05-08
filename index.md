@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+# Table of Contents
+- stuff 1
+- stuff 2
+- stuff 3
+- stuff 4
+
+# Overview
+
+## Prototype
+
+## Final Product
+
+# Team Members
+## Marcos Buccat
+ put stuff that I Did here
+
 
 You can use the [editor on GitHub](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,7 +51,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### Team Members
+# Meet the Creators
 - [Marcos Buccat](https://buccatm.github.io/)
 - Glen Larita
 - Jestiny Lubas
