@@ -23,7 +23,8 @@
 ## Team Members
 
 ### 1. [Marcos Buccat](https://buccatm.github.io/)
- ![alt text](images/marcosb/gitHub-profile-picture.jpg)
+<img src="images/marcosb/gitHub-profile-picture.jpg" width="220" height="220">
+
 - ICS Student, Senior
 - Include your individual Brainstoorm Documentation
 - Put Stuff that I did
