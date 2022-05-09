@@ -12,6 +12,7 @@
 - Screen shot of the brains storm idea?
 
 ## Prototype
+[![Prototype Demo](images/cover-Images/Prototype-cover-image.PNG)](https://youtu.be/oZFPC-a47eo)
 - put image with link to a channel that demonstrate the game
 - include images??
 
