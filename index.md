@@ -27,7 +27,14 @@
 
 - ICS Student, Senior
 - Include your individual Brainstoorm Documentation
-- Put Stuff that I did
+- Implemented the Player Side:
+  - Player movment
+  - Player power ups
+  - Player spells
+  - Player Side summoning Units
+- Implemented all of the player units behaviors
+- Implemented the Win & Lose Conditions
+- Implemented the Functionality of the Start, Win, and Lose scnene
  
 ### 2. Glen Larita
 - URL of your home page
