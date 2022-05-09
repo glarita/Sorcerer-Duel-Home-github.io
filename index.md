@@ -24,9 +24,16 @@
   
      ![Player Side UI](/images/cover-Images/prototype-images/player-side-ui.PNG)
      
+  - Enemy Side:
+  
+     ![Enemy Side](/images/cover-Images/prototype-images/enemy-side.PNG)
+     
+  - Early Win scene:
+    ![Early Win Scene](/images/cover-Images/prototype-images/early-win-state.PNG)
+     
   - Early Gameplay
   
-     ![Early Gameplay](/images/cover-Images/prototype-images/gamplay-prototype.PNG) 
+     ![Early Gameplay](/images/cover-Images/prototype-images/gamplay-prototype.PNG)
 
 
 ## Final Product
