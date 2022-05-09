@@ -27,7 +27,7 @@
 <img src="images/marcosb/gitHub-profile-picture.jpg" width="220" height="220">
 
 - ICS Student, Senior
-- Include your individual Brainstoorm Documentation
+- Include your individual Brainstoorm Documentation??
 - Implemented the Player Side:
   - Player movment
   - Player power ups
@@ -41,14 +41,14 @@
 - URL of your home page
 - Picture of your Team member
 - State your standing and whether you are ICS or ACM
-- Include your individual Brainstoorm Documentation
+- Include your individual Brainstoorm Documentation???
 - Put Stuff that I did
 
 ### 3. Jestiny Lubas
 - URL of your home page, linked in?
 - Picture of your Team member
 - State your standing and whether you are ICS or ACM
-- Include your individual Brainstoorm Documentation
+- Include your individual Brainstoorm Documentation???
 - Put Stuff that I did here
 
 # Trello Board
