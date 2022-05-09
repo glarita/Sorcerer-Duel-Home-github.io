@@ -16,6 +16,17 @@
 [![Prototype Demo](images/cover-Images/Prototype-cover-image.PNG)](https://youtu.be/oZFPC-a47eo)
 
 - Early stages of the Game:
+  - Player Side:
+  
+     ![Player Side](/images/cover-Images/prototype-images/player-side.PNG)
+     
+  - Player Side UI:
+  
+     ![Player Side UI](/images/cover-Images/prototype-images/player-side-ui.PNG)
+     
+  - Early Gameplay
+  
+     ![Early Gameplay](/images/cover-Images/prototype-images/gamplay-prototype.PNG) 
 
 
 ## Final Product
